@@ -1,2 +1,7 @@
-# hands-on-python
-This repo is used to practise python related skills. Usually they are individual scripts. And if they can run correctly, I will put them in util folder for future use.
+# Hands on Python
+
+This repo contains:
+
+1. Sample code of using Python related tools.
+1. util scripts that is general across projects.
+
