@@ -1,1 +1,6 @@
-{}
+{
+    "python.pythonPath": ".venv/bin/python",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "jupyter.jupyterServerType": "local"
+
+}
